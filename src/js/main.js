@@ -8,7 +8,7 @@ var game = (function(){
     h: 25,
     w: 25,
     fill: '#fff',
-    dir: 'right',
+    dir: 'right',                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
     speed: 5
   }
 
